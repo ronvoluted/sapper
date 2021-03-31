@@ -1,7 +1,8 @@
-# sapper
+# Sapper 1.0
 
-[The next small thing in web development, powered by Svelte.](https://sapper.svelte.dev)
+[The previous small thing in web development, powered by Svelte.](https://sapper.svelte.dev)
 
+This is a straight fork of [Sapper](https://github.com/sveltejs/sapper) with nothing changed other than listing it as version 1.0.
 
 ## What is Sapper?
 
@@ -80,3 +81,7 @@ npm run test
 ## License
 
 [MIT](LICENSE)
+
+## Is this an April Fool's Joke?
+
+This is seriously an April Fool's joke.
