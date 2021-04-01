@@ -1,5 +1,5 @@
 {
-  "name": "sapper",
+  "name": "sapper-v1",
   "version": "1.0.0",
   "description": "The next small thing in web development, powered by Svelte",
   "bin": {
@@ -87,7 +87,7 @@
     "dev": "rollup -cw",
     "prepublishOnly": "npm test"
   },
-  "repository": "https://github.com/sveltejs/sapper",
+  "repository": "https://github.com/ronvoluted/sapper",
   "keywords": [
     "svelte",
     "isomorphic",
@@ -98,7 +98,7 @@
   "author": "Rich Harris",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sveltejs/sapper/issues"
+    "url": "https://github.com/ronvoluted/sapper/issues"
   },
-  "homepage": "https://github.com/sveltejs/sapper#readme"
+  "homepage": "https://github.com/ronvoluted/sapper#readme"
 }
